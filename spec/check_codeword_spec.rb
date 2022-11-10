@@ -1,4 +1,4 @@
-require 'check_codeword'
+require "check_codeword"
 
 RSpec.describe "check_codeword method" do
   it "takes horse and returns Correct! Come in." do

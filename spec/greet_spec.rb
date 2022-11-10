@@ -1,4 +1,4 @@
-require 'greet'
+require "greet"
 
 RSpec.describe "greet method" do
   it "concatenates Anthony to Hello!" do
