@@ -13,3 +13,9 @@ class Gratitudes
     return formatted
   end
 end
+
+=begin
+gratitude = Gratitudes.new
+gratitude.add("life")
+print gratitude.format
+=end 
